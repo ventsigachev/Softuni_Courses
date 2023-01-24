@@ -1,0 +1,111 @@
+Function add was called. Result: 4
+Function mult was called. Result: 24
+
+Function add was called. Result: 4
+Function mult was called. Result: 24
+Function add was called. Result: 4
+Function mult was called. Result: 24
+Function add was called. Starting at: Thu Jul 30 13:49:54 2020, ending at: Thu Jul 30 13:49:54 2020. Result: 4
+Function mult was called. Starting at: Thu Jul 30 13:49:54 2020, ending at: Thu Jul 30 13:49:54 2020. Result: 24
+Function named'ADD' was called. Starting at: Thu Jul 30 13:52:07 2020, ending at: Thu Jul 30 13:52:07 2020. Result: 4
+Function named'MULT' was called. Starting at: Thu Jul 30 13:52:07 2020, ending at: Thu Jul 30 13:52:07 2020. Result: 24
+Function named 'ADD' was called. Starting at: Thu Jul 30 13:53:07 2020, ending at: Thu Jul 30 13:53:07 2020. Result: 4
+Function named 'MULT' was called. Starting at: Thu Jul 30 13:53:07 2020, ending at: Thu Jul 30 13:53:07 2020. Result: 24
+Function named 'ADD' was called. Starting at: Thu Jul 30 13:53:46 2020, ending at: Thu Jul 30 13:53:46 2020. Result: 4
+Function named 'MULT' was called. Starting at: Thu Jul 30 13:53:46 2020, ending at: Thu Jul 30 13:53:46 2020. Result: 24
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:08:46 2020, ending at: Thu Jul 30 14:08:46 2020. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:08:46 2020, ending at: Thu Jul 30 14:08:46 2020. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:08:59 2020, ending at: Thu Jul 30 14:08:59 2020. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:08:59 2020, ending at: Thu Jul 30 14:08:59 2020. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:13:37 2020, ending at: Thu Jul 30 14:13:37 2020.Execution time is: 9.5367431640625e-07 Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:13:37 2020, ending at: Thu Jul 30 14:13:37 2020.Execution time is: 7.152557373046875e-07 Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:14:17 2020, ending at: Thu Jul 30 14:14:17 2020.
+Execution time is: 9.5367431640625e-07 Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:14:17 2020, ending at: Thu Jul 30 14:14:17 2020.
+Execution time is: 9.5367431640625e-07 Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:14:42 2020, ending at: Thu Jul 30 14:14:42 2020.
+Execution time is: 9.5367431640625e-07. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:14:42 2020, ending at: Thu Jul 30 14:14:42 2020.
+Execution time is: 1.1920928955078125e-06. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:16:32 2020, ending at: Thu Jul 30 14:16:32 2020.
+Execution time is: 0.0. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:16:32 2020, ending at: Thu Jul 30 14:16:32 2020.
+Execution time is: 0.0. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:18:06 2020, ending at: Thu Jul 30 14:18:06 2020.
+Execution time is: 1.1920928955078125e-06. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:18:06 2020, ending at: Thu Jul 30 14:18:06 2020.
+Execution time is: 1.430511474609375e-06. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:19:55 2020, ending at: Thu Jul 30 14:19:55 2020.
+Execution time is: 1.192092896e-06. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:19:55 2020, ending at: Thu Jul 30 14:19:55 2020.
+Execution time is: 1.192092896e-06. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:24:34 2020, ending at: Thu Jul 30 14:24:34 2020.
+Execution time is: 0.0000338554382324218750. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:24:34 2020, ending at: Thu Jul 30 14:24:34 2020.
+Execution time is: 0.000007629394531250000. Result: 24
+
+Function named 'ADD' was called. Starting at: Thu Jul 30 14:25:15 2020, ending at: Thu Jul 30 14:25:15 2020.
+Execution time is: 0.0000298023223876953125 sec. Result: 4
+
+Function named 'MULT' was called. Starting at: Thu Jul 30 14:25:15 2020, ending at: Thu Jul 30 14:25:15 2020.
+Execution time is: 0.0000069141387939453125 sec. Result: 24
+
+Function(ADD) was called. Starting at: Thu Jul 30 14:43:07 2020, ending at: Thu Jul 30 14:43:07 2020.
+Execution time is: 0.00003242492675781250 sec. Result: 4
+
+Function(MULT) was called. Starting at: Thu Jul 30 14:43:07 2020, ending at: Thu Jul 30 14:43:07 2020.
+Execution time is: 0.000007152557373046875 sec. Result: 24
+
+Function(ADD) was called. Starting at: Thu Jul 30 14:46:03 2020, ending at: Thu Jul 30 14:46:03 2020.
+Execution time is 0.0000288486480712890625 sec. Result: 4
+
+Function(MULT) was called. Starting at: Thu Jul 30 14:46:03 2020, ending at: Thu Jul 30 14:46:03 2020.
+Execution time is 0.0000073909759521484375 sec. Result: 24
+
+Function(ADD) was called. Starting at: Thu Jul 30 14:47:33 2020, ending at: Thu Jul 30 14:47:33 2020.
+Execution time is 0.00002932548522949219 sec. Result: 4
+
+Function(MULT) was called. Starting at: Thu Jul 30 14:47:33 2020, ending at: Thu Jul 30 14:47:33 2020.
+Execution time is 0.00000691413879394531 sec. Result: 24
+
+Function(ADD) was called. Starting at: Thu Jul 30 14:48:21 2020, ending at: Thu Jul 30 14:48:21 2020.
+Execution time is 0.0000288486 sec. Result: 4
+
+Function(MULT) was called. Starting at: Thu Jul 30 14:48:21 2020, ending at: Thu Jul 30 14:48:21 2020.
+Execution time is 0.0000066757 sec. Result: 24
+
+Function 'ADD' was called. Starting at: Thu Jul 30 14:56:27 2020, ending at: Thu Jul 30 14:56:27 2020.
+Execution time is 0.0000298023 sec. Result: 4
+
+Function 'MULT' was called. Starting at: Thu Jul 30 14:56:27 2020, ending at: Thu Jul 30 14:56:27 2020.
+Execution time is 0.0000071526 sec. Result: 24
+
+Function 'ADD' was called. Started at: Thu Jul 30 14:57:29 2020, ended at: Thu Jul 30 14:57:29 2020.
+Execution time is 0.0000274181 sec. Result: 4
+
+Function 'MULT' was called. Started at: Thu Jul 30 14:57:29 2020, ended at: Thu Jul 30 14:57:29 2020.
+Execution time is 0.0000076294 sec. Result: 24
+
+Function 'ADD' was called. Started at: Thu Jul 30 15:00:33 2020, ended at: Thu Jul 30 15:00:33 2020.
+Execution time is 0.0000333786 sec. Result: 4
+
+Function 'MULT' was called. Started at: Thu Jul 30 15:00:33 2020, ended at: Thu Jul 30 15:00:33 2020.
+Execution time is 0.0000071526 sec. Result: 24
+
